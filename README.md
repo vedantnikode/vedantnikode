@@ -4,7 +4,7 @@
 
 I am a Bioengineering undergraduate at IIT Mandi with a strong interest in Software Development, Machine Learning and Problem Solving.
 
-Currently, I am focused on building a solid foundation in Data Structures & Algorithms while exploring software engineering, machine learning, and real-world projects. I enjoy learning by building, documenting my progress, and continuously improving my technical skills.
+Currently, I am focused on building a solid foundation in Data Structures & Algorithms while exploring software engineering, machine learning, and real-world projects. I enjoy learning by building, documenting my progress and continuously improving my technical skills.
 
 ---
 
